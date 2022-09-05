@@ -24,6 +24,12 @@ var (
 
 	frameCount int
 
+	tileDest rl.Rectangle
+	tileSrc rl.Rectangle
+	tileMap []int
+	srcMap []string
+	mapWidth, mapHeight int
+
 	musicPaused bool
 	music       rl.Music
 
