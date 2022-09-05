@@ -5,3 +5,4 @@ Currently it doesn't do much more than follow https://www.youtube.com/watch?v=iW
 
 If you want to start this, just run `go run main.go` in the root folder.
 If your on windows, you might need a C-Compiler (see https://github.com/gen2brain/raylib-go#windows)
+
